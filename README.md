@@ -2,5 +2,3 @@ django
 ======
 
 t
-
-text commit
